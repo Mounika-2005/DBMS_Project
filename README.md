@@ -4,9 +4,9 @@ We are giving users (donors) from our project a fundamental knowledge of the nea
 
 Tools used :
 
-⦁ Frontend: HTML,CSS,JavaScript.
-⦁ Backend: PHP
-⦁ DataBase:MySQL
+⦁ Frontend: HTML,CSS,JavaScript. <br />
+⦁ Backend: PHP <br />
+⦁ DataBase:MySQL <br />
 
 Features :
 
@@ -14,15 +14,16 @@ Features :
 
 Orphanage details collection
 
-⦁ Enrollment Requirements <br />
-⦁ Medical emergency 
-⦁ Update details
+⦁ Enrollment <br /> 
+⦁ Requirements <br />
+⦁ Medical emergency <br />
+⦁ Update details <br />
 ⦁ Notifications 
 
 Orphanage details display
 
-⦁ Search bar 
-⦁ Orphanage details 
+⦁ Search bar <br />
+⦁ Orphanage details <br />
 ⦁ Emergency details 
 
 Online Donation interface
